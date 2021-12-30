@@ -32,5 +32,4 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
     compile 'com.squareup.okhttp3:okhttp:3.12.12'
     compile 'com.google.code.gson:gson:2.6.2'
-    implementation files('E:/develop/weather/libs/QWeather_Public_Android_V4.8.jar')
 }
